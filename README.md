@@ -1,4 +1,4 @@
-Hackathon Management System
+'Hackathon Management System'
 This project is a Hackathon Management System built using Oracle SQL. It allows organizers to manage hackathons, participants, and ticketing information. The system tracks event details, participant registrations, and payment statuses, while allowing for easy queries to view upcoming events and registered participants.
 
 Features
